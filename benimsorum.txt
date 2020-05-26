@@ -1,0 +1,6 @@
+BENİM SORUM : Bir kırtasiye fiyat öğrenme sistemi yapmanızı istiyorum. sistem açıldığında hangi malzeme olduğunu
+1 kalemler 2 masaüstü araçları 3 arşiv ürünleri diye sınıflar oluşturarak kullanıcıya ne istediğinizi sormanız gerek.
+daha sonra örneğin kalemler sınıfının içinde tükenmez kalem dolma kalem kurşun kalem gibi 6 adet kalem türü yazıp hangisini seçmek
+istenildiğini sorunuz bunu masaüstü araçlarında 5 arşiv ürünlerinde 7 adet yapınız.
+bir fiyatı öğrendikten sonra sistem çıkış yapılsınmı diye soru sorulsun devam edilecekse tekrar en başa dönülsün
+sorgulanan nesnelerin fiyatları bir sınıf içerisinde toplansın ve en sonunda toplam fiyatı ekrana yansıtsın.
